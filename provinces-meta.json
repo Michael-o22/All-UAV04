@@ -1,0 +1,392 @@
+[
+  {
+    "id": "TH32",
+    "en": "Surin",
+    "th": "สุรินทร์"
+  },
+  {
+    "id": "TH33",
+    "en": "Si Sa Ket",
+    "th": "ศรีสะเกษ"
+  },
+  {
+    "id": "TH34",
+    "en": "Ubon Ratchathani",
+    "th": "อุบลราชธานี"
+  },
+  {
+    "id": "TH27",
+    "en": "Sa Kaeo",
+    "th": "สระแก้ว"
+  },
+  {
+    "id": "TH31",
+    "en": "Buri Ram",
+    "th": "บุรีรัมย์"
+  },
+  {
+    "id": "TH23",
+    "en": "Trat",
+    "th": "ตราด"
+  },
+  {
+    "id": "TH22",
+    "en": "Chanthaburi",
+    "th": "จันทบุรี"
+  },
+  {
+    "id": "TH91",
+    "en": "Satun",
+    "th": "สตูล"
+  },
+  {
+    "id": "TH90",
+    "en": "Songkhla",
+    "th": "สงขลา"
+  },
+  {
+    "id": "TH95",
+    "en": "Yala",
+    "th": "ยะลา"
+  },
+  {
+    "id": "TH96",
+    "en": "Narathiwat",
+    "th": "นราธิวาส"
+  },
+  {
+    "id": "TH57",
+    "en": "Chiang Rai",
+    "th": "เชียงราย"
+  },
+  {
+    "id": "TH50",
+    "en": "Chiang Mai",
+    "th": "เชียงใหม่"
+  },
+  {
+    "id": "TH58",
+    "en": "Mae Hong Son",
+    "th": "แม่ฮ่องสอน"
+  },
+  {
+    "id": "TH63",
+    "en": "Tak",
+    "th": "ตาก"
+  },
+  {
+    "id": "TH71",
+    "en": "Kanchanaburi",
+    "th": "กาญจนบุรี"
+  },
+  {
+    "id": "TH77",
+    "en": "Prachuap Khiri Khan",
+    "th": "ประจวบคีรีขันธ์"
+  },
+  {
+    "id": "TH76",
+    "en": "Phetchaburi",
+    "th": "เพชรบุรี"
+  },
+  {
+    "id": "TH70",
+    "en": "Ratchaburi",
+    "th": "ราชบุรี"
+  },
+  {
+    "id": "TH86",
+    "en": "Chumphon",
+    "th": "ชุมพร"
+  },
+  {
+    "id": "TH85",
+    "en": "Ranong",
+    "th": "ระนอง"
+  },
+  {
+    "id": "TH56",
+    "en": "Phayao",
+    "th": "พะเยา"
+  },
+  {
+    "id": "TH55",
+    "en": "Nan",
+    "th": "น่าน"
+  },
+  {
+    "id": "TH53",
+    "en": "Uttaradit",
+    "th": "อุตรดิตถ์"
+  },
+  {
+    "id": "TH65",
+    "en": "Phitsanulok",
+    "th": "พิษณุโลก"
+  },
+  {
+    "id": "TH42",
+    "en": "Loei",
+    "th": "เลย"
+  },
+  {
+    "id": "TH38",
+    "en": "Bueng Kan",
+    "th": "บึงกาฬ"
+  },
+  {
+    "id": "TH43",
+    "en": "Nong Khai",
+    "th": "หนองคาย"
+  },
+  {
+    "id": "TH48",
+    "en": "Nakhon Phanom",
+    "th": "นครพนม"
+  },
+  {
+    "id": "TH49",
+    "en": "Mukdahan",
+    "th": "มุกดาหาร"
+  },
+  {
+    "id": "TH37",
+    "en": "Amnat Charoen",
+    "th": "อำนาจเจริญ"
+  },
+  {
+    "id": "TH82",
+    "en": "Phangnga",
+    "th": "พังงา"
+  },
+  {
+    "id": "TH81",
+    "en": "Krabi",
+    "th": "กระบี่"
+  },
+  {
+    "id": "TH92",
+    "en": "Trang",
+    "th": "ตรัง"
+  },
+  {
+    "id": "TH94",
+    "en": "Pattani",
+    "th": "ปัตตานี"
+  },
+  {
+    "id": "TH93",
+    "en": "Phatthalung",
+    "th": "พัทลุง"
+  },
+  {
+    "id": "TH80",
+    "en": "Nakhon Si Thammarat",
+    "th": "นครศรีธรรมราช"
+  },
+  {
+    "id": "TH84",
+    "en": "Surat Thani",
+    "th": "สุราษฎร์ธานี"
+  },
+  {
+    "id": "TH75",
+    "en": "Samut Songkhram",
+    "th": "สมุทรสงคราม"
+  },
+  {
+    "id": "TH74",
+    "en": "Samut Sakhon",
+    "th": "สมุทรสาคร"
+  },
+  {
+    "id": "TH10",
+    "en": "Bangkok Metropolis",
+    "th": "กรุงเทพมหานคร"
+  },
+  {
+    "id": "TH11",
+    "en": "Samut Prakan",
+    "th": "สมุทรปราการ"
+  },
+  {
+    "id": "TH24",
+    "en": "Chachoengsao",
+    "th": "ฉะเชิงเทรา"
+  },
+  {
+    "id": "THS",
+    "en": "Phatthaya",
+    "th": "Phatthaya"
+  },
+  {
+    "id": "TH21",
+    "en": "Rayong",
+    "th": "ระยอง"
+  },
+  {
+    "id": "TH83",
+    "en": "Phuket",
+    "th": "ภูเก็ต"
+  },
+  {
+    "id": "TH40",
+    "en": "Khon Kaen",
+    "th": "ขอนแก่น"
+  },
+  {
+    "id": "TH47",
+    "en": "Sakon Nakhon",
+    "th": "สกลนคร"
+  },
+  {
+    "id": "TH72",
+    "en": "Suphan Buri",
+    "th": "สุพรรณบุรี"
+  },
+  {
+    "id": "TH17",
+    "en": "Sing Buri",
+    "th": "สิงห์บุรี"
+  },
+  {
+    "id": "TH18",
+    "en": "Chai Nat",
+    "th": "ชัยนาท"
+  },
+  {
+    "id": "TH15",
+    "en": "Ang Thong",
+    "th": "อ่างทอง"
+  },
+  {
+    "id": "TH19",
+    "en": "Saraburi",
+    "th": "สระบุรี"
+  },
+  {
+    "id": "TH30",
+    "en": "Nakhon Ratchasima",
+    "th": "นครราชสีมา"
+  },
+  {
+    "id": "TH26",
+    "en": "Nakhon Nayok",
+    "th": "นครนายก"
+  },
+  {
+    "id": "TH13",
+    "en": "Pathum Thani",
+    "th": "ปทุมธานี"
+  },
+  {
+    "id": "TH61",
+    "en": "Uthai Thani",
+    "th": "อุทัยธานี"
+  },
+  {
+    "id": "TH46",
+    "en": "Kalasin",
+    "th": "กาฬสินธุ์"
+  },
+  {
+    "id": "TH45",
+    "en": "Roi Et",
+    "th": "ร้อยเอ็ด"
+  },
+  {
+    "id": "TH44",
+    "en": "Maha Sarakham",
+    "th": "มหาสารคาม"
+  },
+  {
+    "id": "TH39",
+    "en": "Nong Bua Lam Phu",
+    "th": "Nong Bua Lam Phu"
+  },
+  {
+    "id": "TH16",
+    "en": "Lop Buri",
+    "th": "ลพบุรี"
+  },
+  {
+    "id": "TH41",
+    "en": "Udon Thani",
+    "th": "อุดรธานี"
+  },
+  {
+    "id": "TH14",
+    "en": "Phra Nakhon Si Ayutthaya",
+    "th": "พระนครศรีอยุธยา"
+  },
+  {
+    "id": "TH12",
+    "en": "Nonthaburi",
+    "th": "นนทบุรี"
+  },
+  {
+    "id": "TH73",
+    "en": "Nakhon Pathom",
+    "th": "นครปฐม"
+  },
+  {
+    "id": "TH62",
+    "en": "Kamphaeng Phet",
+    "th": "กำแพงเพชร"
+  },
+  {
+    "id": "TH52",
+    "en": "Lampang",
+    "th": "ลำปาง"
+  },
+  {
+    "id": "TH64",
+    "en": "Sukhothai",
+    "th": "สุโขทัย"
+  },
+  {
+    "id": "TH60",
+    "en": "Nakhon Sawan",
+    "th": "นครสวรรค์"
+  },
+  {
+    "id": "TH67",
+    "en": "Phetchabun",
+    "th": "เพชรบูรณ์"
+  },
+  {
+    "id": "TH66",
+    "en": "Phichit",
+    "th": "พิจิตร"
+  },
+  {
+    "id": "TH36",
+    "en": "Chaiyaphum",
+    "th": "ชัยภูมิ"
+  },
+  {
+    "id": "TH54",
+    "en": "Phrae",
+    "th": "แพร่"
+  },
+  {
+    "id": "TH51",
+    "en": "Lamphun",
+    "th": "ลำพูน"
+  },
+  {
+    "id": "TH25",
+    "en": "Prachin Buri",
+    "th": "ปราจีนบุรี"
+  },
+  {
+    "id": "TH35",
+    "en": "Yasothon",
+    "th": "ยโสธร"
+  },
+  {
+    "id": "TH20",
+    "en": "Chon Buri",
+    "th": "ชลบุรี"
+  }
+]

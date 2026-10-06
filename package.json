@@ -1,0 +1,19 @@
+{
+  "name": "uav-mission-tracker",
+  "version": "1.0.0",
+  "description": "Modern UAV Survey Operations Archive & Analytics Web App inspired by minimalist product designer aesthetics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "uav",
+    "drone",
+    "survey",
+    "gis",
+    "dashboard",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT"
+}

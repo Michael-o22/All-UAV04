@@ -1,0 +1,314 @@
+[
+  {
+    "id": "TH32",
+    "name": "Surin"
+  },
+  {
+    "id": "TH33",
+    "name": "Si Sa Ket"
+  },
+  {
+    "id": "TH34",
+    "name": "Ubon Ratchathani"
+  },
+  {
+    "id": "TH27",
+    "name": "Sa Kaeo"
+  },
+  {
+    "id": "TH31",
+    "name": "Buri Ram"
+  },
+  {
+    "id": "TH23",
+    "name": "Trat"
+  },
+  {
+    "id": "TH22",
+    "name": "Chanthaburi"
+  },
+  {
+    "id": "TH91",
+    "name": "Satun"
+  },
+  {
+    "id": "TH90",
+    "name": "Songkhla"
+  },
+  {
+    "id": "TH95",
+    "name": "Yala"
+  },
+  {
+    "id": "TH96",
+    "name": "Narathiwat"
+  },
+  {
+    "id": "TH57",
+    "name": "Chiang Rai"
+  },
+  {
+    "id": "TH50",
+    "name": "Chiang Mai"
+  },
+  {
+    "id": "TH58",
+    "name": "Mae Hong Son"
+  },
+  {
+    "id": "TH63",
+    "name": "Tak"
+  },
+  {
+    "id": "TH71",
+    "name": "Kanchanaburi"
+  },
+  {
+    "id": "TH77",
+    "name": "Prachuap Khiri Khan"
+  },
+  {
+    "id": "TH76",
+    "name": "Phetchaburi"
+  },
+  {
+    "id": "TH70",
+    "name": "Ratchaburi"
+  },
+  {
+    "id": "TH86",
+    "name": "Chumphon"
+  },
+  {
+    "id": "TH85",
+    "name": "Ranong"
+  },
+  {
+    "id": "TH56",
+    "name": "Phayao"
+  },
+  {
+    "id": "TH55",
+    "name": "Nan"
+  },
+  {
+    "id": "TH53",
+    "name": "Uttaradit"
+  },
+  {
+    "id": "TH65",
+    "name": "Phitsanulok"
+  },
+  {
+    "id": "TH42",
+    "name": "Loei"
+  },
+  {
+    "id": "TH38",
+    "name": "Bueng Kan"
+  },
+  {
+    "id": "TH43",
+    "name": "Nong Khai"
+  },
+  {
+    "id": "TH48",
+    "name": "Nakhon Phanom"
+  },
+  {
+    "id": "TH49",
+    "name": "Mukdahan"
+  },
+  {
+    "id": "TH37",
+    "name": "Amnat Charoen"
+  },
+  {
+    "id": "TH82",
+    "name": "Phangnga"
+  },
+  {
+    "id": "TH81",
+    "name": "Krabi"
+  },
+  {
+    "id": "TH92",
+    "name": "Trang"
+  },
+  {
+    "id": "TH94",
+    "name": "Pattani"
+  },
+  {
+    "id": "TH93",
+    "name": "Phatthalung"
+  },
+  {
+    "id": "TH80",
+    "name": "Nakhon Si Thammarat"
+  },
+  {
+    "id": "TH84",
+    "name": "Surat Thani"
+  },
+  {
+    "id": "TH75",
+    "name": "Samut Songkhram"
+  },
+  {
+    "id": "TH74",
+    "name": "Samut Sakhon"
+  },
+  {
+    "id": "TH10",
+    "name": "Bangkok Metropolis"
+  },
+  {
+    "id": "TH11",
+    "name": "Samut Prakan"
+  },
+  {
+    "id": "TH24",
+    "name": "Chachoengsao"
+  },
+  {
+    "id": "THS",
+    "name": "Phatthaya"
+  },
+  {
+    "id": "TH21",
+    "name": "Rayong"
+  },
+  {
+    "id": "TH83",
+    "name": "Phuket"
+  },
+  {
+    "id": "TH40",
+    "name": "Khon Kaen"
+  },
+  {
+    "id": "TH47",
+    "name": "Sakon Nakhon"
+  },
+  {
+    "id": "TH72",
+    "name": "Suphan Buri"
+  },
+  {
+    "id": "TH17",
+    "name": "Sing Buri"
+  },
+  {
+    "id": "TH18",
+    "name": "Chai Nat"
+  },
+  {
+    "id": "TH15",
+    "name": "Ang Thong"
+  },
+  {
+    "id": "TH19",
+    "name": "Saraburi"
+  },
+  {
+    "id": "TH30",
+    "name": "Nakhon Ratchasima"
+  },
+  {
+    "id": "TH26",
+    "name": "Nakhon Nayok"
+  },
+  {
+    "id": "TH13",
+    "name": "Pathum Thani"
+  },
+  {
+    "id": "TH61",
+    "name": "Uthai Thani"
+  },
+  {
+    "id": "TH46",
+    "name": "Kalasin"
+  },
+  {
+    "id": "TH45",
+    "name": "Roi Et"
+  },
+  {
+    "id": "TH44",
+    "name": "Maha Sarakham"
+  },
+  {
+    "id": "TH39",
+    "name": "Nong Bua Lam Phu"
+  },
+  {
+    "id": "TH16",
+    "name": "Lop Buri"
+  },
+  {
+    "id": "TH41",
+    "name": "Udon Thani"
+  },
+  {
+    "id": "TH14",
+    "name": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "id": "TH12",
+    "name": "Nonthaburi"
+  },
+  {
+    "id": "TH73",
+    "name": "Nakhon Pathom"
+  },
+  {
+    "id": "TH62",
+    "name": "Kamphaeng Phet"
+  },
+  {
+    "id": "TH52",
+    "name": "Lampang"
+  },
+  {
+    "id": "TH64",
+    "name": "Sukhothai"
+  },
+  {
+    "id": "TH60",
+    "name": "Nakhon Sawan"
+  },
+  {
+    "id": "TH67",
+    "name": "Phetchabun"
+  },
+  {
+    "id": "TH66",
+    "name": "Phichit"
+  },
+  {
+    "id": "TH36",
+    "name": "Chaiyaphum"
+  },
+  {
+    "id": "TH54",
+    "name": "Phrae"
+  },
+  {
+    "id": "TH51",
+    "name": "Lamphun"
+  },
+  {
+    "id": "TH25",
+    "name": "Prachin Buri"
+  },
+  {
+    "id": "TH35",
+    "name": "Yasothon"
+  },
+  {
+    "id": "TH20",
+    "name": "Chon Buri"
+  }
+]
